@@ -1,5 +1,5 @@
 #include "test.h"
 
 void help(){
-    printf("I'm helping!");
+    printf("I'm helping!\n");
 }
